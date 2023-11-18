@@ -1,0 +1,85 @@
+/* Comentarios*/
+
+/*Selector de etiqueta*/
+
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+body{
+    background-color: grey
+
+}
+
+h1{
+    background-color: rgb(241, 64, 64);
+    padding: 20px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+h3{
+    color: rgb(255, 255, 255)
+}
+
+p{
+    font-weight: bold;
+    text-decoration-color: black;
+}
+
+ul li{
+    text-decoration-line: none;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+ol li{
+    font-weight: bold;
+}
+
+.tarjeta{
+    background-color: rgb(100, 100, 100);
+    margin: 30px;
+    border: 3px solid black;
+
+}
+
+#titulo-historia{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#titulo-bio{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#titulo-giras{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#titulo-canciones{
+    color: blanchedalmond;
+    text-align: center;
+}
+#titulo-from{
+    color: blanchedalmond;
+    text-align: center;
+}
+
+
+#im{
+    width: 550px;
+    height: 550px;
+    border-radius: 13%;
+    border: 3px solid black;
+    image-orientation: center;
+}
+
+#imagen2{
+    width: 300px;
+    height: 300px;
+    border-radius: 13%;
+    border: 3px solid black;
+
+}
